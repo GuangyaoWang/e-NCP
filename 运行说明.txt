@@ -1,0 +1,16 @@
+e-NCP
+运行jar文件需依次输入以下六个参数：
+参数1：距离阈值d
+参数2：参与度阈值pi
+参数3：数据文件地址(例如E:\eNCP\realData.csv)
+参数4：key(经纬度数据key为1，坐标数据key为2)
+参数5：极小负模式导出具体地址(例如E:\eNCP\minNPC.csv)
+参数6：所有负模式导出具体地址(例如E:\eNCP\allNPC.csv)
+
+PNCP
+运行jar文件需依次输入以下五个参数：
+参数1：距离阈值d
+参数2：参与度阈值pi
+参数3：数据文件地址(例如E:\eNCP\realData.csv)
+参数4：key(经纬度数据key为1，坐标数据key为2)
+参数5：所有负模式导出具体地址(例如E:\eNCP\allNPC.csv)
